@@ -26,7 +26,7 @@ Welcome to **RAGnosis** — a Retrieval-Augmented Generation (RAG) based medical
 
 ## 📖 Medium Blog
 
-🔗 [Read How I Built RAGnosis](https://medium.com/@hassanhaseen/ragnosis-ai-powered-clinical-query-system-using-rag-3fae8ff00000)
+🔗 [Read How I Built RAGnosis](https://medium.com/@hassanhaseen/ragnosis-building-a-clinical-q-a-app-with-rag-google-gemini-mimic-iv-eac2360f3b79)
 
 ---
 
@@ -36,7 +36,7 @@ Welcome to **RAGnosis** — a Retrieval-Augmented Generation (RAG) based medical
 |-------------------------|
 | ![App Preview](https://i.ibb.co/m56ZfXMD/image.png)|
 
-## Working
+## ⚒️ Working
 
 | RAGnosis - Streamlit Working |
 |-------------------------|
