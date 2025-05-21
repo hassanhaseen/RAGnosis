@@ -160,7 +160,7 @@ CHUNK_OVERLAP = 128
 SEARCH_K = 3 # Number of documents to retrieve
 
 # --- API Key Loading and Validation ---
-GOOGLE_API_KEY = "AIzaSyAiiQpVNO4-EH1lt9yhkd-ZE_zUlqGx2sw"
+
 
 # --- Dynamic Vector Store Path based on Embedding Model ---
 # Replace characters invalid for directory names
