@@ -412,7 +412,7 @@ def create_google_rag_chain(
 
 # --- Streamlit App ---
 
-st.title("🩺 MIMIC-IV Clinical Query Assistant (Google AI)")
+st.title("🩺 RAGnosis MIMIC-IV Clinical Query Assistant")
 st.markdown("""
 Enter a clinical question. The system retrieves relevant MIMIC-IV info using Google AI embeddings
 and generates an answer using Google's Gemini model.
